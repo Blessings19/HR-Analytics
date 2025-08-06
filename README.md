@@ -22,7 +22,7 @@ This **HR analytics initiative** leveraged **Microsoft Power BI** to transform r
 
 #### **Tools & Techniques**  
 - **Power BI** for ETL, modeling, and interactive dashboards.  
-- **DAX** for custom metrics (e.g., "% Due for Promotion," "% to be Retrenched").  
+- **DAX** for custom metrics (e.g., "% Due for Promotion", "% to be Retrenched").  
 
 #### **Business Impact**  
 - **Transparent promotion pathways** via real-time eligibility dashboards.  
