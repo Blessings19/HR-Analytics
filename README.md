@@ -1,4 +1,4 @@
-# HR-Analytics: Workforce Insights with Power BI
+e# HR-Analytics: Workforce Insights with Power BI
 This HR analytics initiative leveraged Microsoft Power BI to transform raw employee data into actionable insights, enabling strategic workforce planning. By developing interactive dashboard, the project provided leadership with real-time, data-driven recommendations on promotions, retention, diversity and operational efficiency.
 
 ### **Project Overview**  
@@ -30,5 +30,6 @@ This **HR analytics initiative** leveraged **Microsoft Power BI** to transform r
 - **Improved punctuality policies** informed by commute-time analytics.  
 
 ### **The Dashboard**
+Here is a pictorial view of the interactice dashbord.
 
 <img width="979" height="565" alt="HR_Analytics Dashboard Screenshot 2" src="https://github.com/user-attachments/assets/66ee59a3-8924-4812-b81c-e2fe462a0d9a" />
