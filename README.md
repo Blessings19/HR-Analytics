@@ -29,3 +29,6 @@ This **HR analytics initiative** leveraged **Microsoft Power BI** to transform r
 - **Cost-saving workforce optimization** through data-backed retrenchment decisions.  
 - **Improved punctuality policies** informed by commute-time analytics.  
 
+### **The Dashboard**
+
+<img width="979" height="565" alt="HR_Analytics Dashboard Screenshot 2" src="https://github.com/user-attachments/assets/66ee59a3-8924-4812-b81c-e2fe462a0d9a" />
